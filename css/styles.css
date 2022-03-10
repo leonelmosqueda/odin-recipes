@@ -33,3 +33,17 @@ a {
     color: white;
 }
 
+
+.container-description h3, .container-ingredients h3, .container-steps h3 {
+    background-color: royalblue;
+    font-size: 32px;
+    text-align: center;
+}
+
+.container-description p {
+    text-align: start;
+}
+
+.container-return {
+    text-align: center;
+}
